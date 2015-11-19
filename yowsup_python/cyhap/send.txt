@@ -1,0 +1,2 @@
+/L
+/image send 919687074484 cyhap/img/90.png
