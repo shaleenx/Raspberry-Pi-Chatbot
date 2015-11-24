@@ -1,2 +1,2 @@
 /L
-/image send 919687074484 calvin/img/24.gif
+/image send 919687074484 calvin/img/11.gif
